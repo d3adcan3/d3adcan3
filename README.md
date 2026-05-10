@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mieke&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=d3adcan3&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=std%3A%3Acout%20%3C%3C%20%22Hello%2C%20World!%22%20%3C%3C%20std%3A%3Aendl" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=d3adcan3">
@@ -16,7 +20,7 @@
   <img src="https://streak-stats.demolab.com/?user=d3adcan3&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="d3adcan3's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=d3adcan3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mieke's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=d3adcan3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="d3adcan3's GitHub Trophies" />
 </p>
 
 
@@ -45,9 +49,8 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
 
